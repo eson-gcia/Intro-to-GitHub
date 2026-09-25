@@ -1,5 +1,3 @@
-﻿# Intro-to-GitHub
-
 # Intro-to-GitHub
 
 ## Description
