@@ -1,0 +1,4 @@
+This is a sample file for the Intro-to-GitHub assignment.
+
+This file demonstrates how Git can track different types of files
+inside a repository.
